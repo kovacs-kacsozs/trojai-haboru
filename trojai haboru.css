@@ -1,0 +1,60 @@
+body{
+  color: #1e3758;
+  background-color: rgba(172, 168, 168, 0.445);
+  font-family: britannic;
+  background-image: url(depositphotos_24493081-stock-photo-old-paper.png);
+}
+
+.bg-fej {
+  margin-top: 0px;
+  background-position: center;
+  height: 250px;
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-image: url(Unknown_Artist_-_Battle_of_the_Greeks_and_the_Trojans_\(Trojan_War\)_1808-1810_\(painting\)_-_\(MeisterDrucke-952617\).jpg);
+}
+
+.bg-fej h1{
+  margin-top: 0px;
+  padding-bottom: 15px;
+  color: white;
+  font-size: 500%;
+  text-transform: uppercase;
+  text-decoration: underline overline;
+  font-weight: bold;
+}
+
+.container{
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+
+.bg-torzs {
+  margin-top: 0px;
+  padding-bottom: 15px;
+  background-color: #C5C599;
+  width: 600px;
+  border: solid 4px;
+}
+
+h3{
+  margin-top: 0px;
+  margin: 25px 0px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+
+a {
+  margin-top: 0px;
+  padding-bottom: 15px;
+  font-style: italic;
+  font-weight: bold;
+  color: darkblue;
+}
+
+.img {
+  width: 300px;
+  height: 370px;
+  border: solid 5px black;
+}
+
